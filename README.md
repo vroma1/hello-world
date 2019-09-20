@@ -1,2 +1,2 @@
 # hello-world
-I'm studing now
+I'm studying now
