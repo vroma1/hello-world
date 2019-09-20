@@ -1,3 +1,2 @@
 # hello-world
-I'm studying now.
-This is a new branch.
+You can test your phone here - https://vroma1.github.io/hello-world/. 
